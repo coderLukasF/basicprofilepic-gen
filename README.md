@@ -18,5 +18,5 @@ _Psst.. If you are making a random hex generator, make sure to add some filterin
 The fourth parameter is the width in pixels of the image.
 The fifth parameter is the height in pixels of the image.
 
-If I dont respond to your PR within 1 business day, please email me.
-z
+If I dont respond to your PR within 1 business day, please email me. (My contact is on my home page)
+
